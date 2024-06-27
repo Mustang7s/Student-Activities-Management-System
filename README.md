@@ -12,7 +12,7 @@ Save All Files: Save all student data to a CSV file named students.csv.
 Implementation Details
 Language: C++
 Libraries: OpenSSL for password hashing
-#Files:
+# Files
 ****main.cpp: Contains the main logic of the application.
 sha256.h and sha256.cpp: Utilities for hashing passwords using SHA-256.
 students.csv: CSV file for storing student data.
