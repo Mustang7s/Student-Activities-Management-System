@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1719499028 source:c:\users\festu\onedrive\documents\student\student\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
